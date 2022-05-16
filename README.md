@@ -12,7 +12,7 @@ Correo: launchx09915@innovaccion.mx <br>
 GitHub: https://github.com/IssacCorona
 
 # Tecnologías
-Se utilizaron las siguientes tecnologías:
+Se utilizaron las siguientes tecnologías: <br>
 -HTML <br>
 -CSS <br>
 -JavaScript <br>
