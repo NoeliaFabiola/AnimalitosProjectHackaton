@@ -13,10 +13,10 @@ GitHub: https://github.com/IssacCorona
 
 # Tecnologías
 Se utilizaron las siguientes tecnologías:
--HTML
--CSS
--JavaScript
--Bootstrap
+-HTML <br>
+-CSS <br>
+-JavaScript <br>
+-Bootstrap <br>
 
 <img src="https://github.com/NoeliaFabiola/AnimalitosProjectHackaton/blob/main/Animalitos%20Project/Capturas/Integrantes.png" alt="Ficha"/>
 
